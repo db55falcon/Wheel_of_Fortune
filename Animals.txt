@@ -1,0 +1,81 @@
+baboon
+badger
+bald eagle
+bandicoot
+barnacle
+barracuda
+basilisk
+
+bass
+bat
+bear
+beaver
+bee
+beetle
+bison
+blackbird
+black panther
+black widow spider
+blue bird
+blue jay
+blue whale
+boar
+bobcat
+bonobo
+buffalo
+bug
+butterfly
+buzzard
+camel
+cape buffalo
+capybara
+cardinal
+caribou
+carp
+cat
+caterpillar
+catfish
+cattle
+centipede
+cephalopod
+chameleon
+cheetah
+chickadee
+chicken
+chimpanzee
+chinchilla
+chipmunk
+clam
+clownfish
+cobra
+cockroach
+cod
+condor
+constrictor
+coral
+cougar
+cow
+coyote
+crab
+crane
+crawdad
+crayfish
+cricket
+crocodile
+crow
+cuckoo
+cicada
+deer
+dingo
+dinosaur
+dog
+dolphin
+donkey
+dormouse
+dove
+dragonfly
+dragon
+duck
+horse
+zebra
+elephant
